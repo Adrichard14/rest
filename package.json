@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Node API rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrichard14/rest.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Adrian Richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrichard14/rest/issues"
+  },
+  "homepage": "https://github.com/Adrichard14/rest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
